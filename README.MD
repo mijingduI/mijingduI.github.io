@@ -79,4 +79,4 @@ npm run dev # or yarn dev
 ## 许可证
 [MIT](https://github.com/mijingduI/vuepress-theme-vdoing/blob/master/LICENSE)
 
-Copyright (c) 2019-present mijinduI
+Copyright (c) 2023-present mijinduI
