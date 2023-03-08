@@ -71,7 +71,6 @@ npm run dev # or yarn dev
 ## 致谢
 :heart:感谢支持这个项目的朋友
 
-:heart:感谢为这个项目贡献代码的朋友 → [Contributors](https://github.com/xugaoyi/vuepress-theme-vdoing/graphs/contributors)
 
 
 
