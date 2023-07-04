@@ -5,6 +5,7 @@ permalink: /java/d/
 sidebar: auto
 categories: 
   - 随笔
+  - 技术随笔
 tags: 
   - 
 ---

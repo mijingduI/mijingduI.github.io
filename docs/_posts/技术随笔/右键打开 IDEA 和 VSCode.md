@@ -5,6 +5,7 @@ permalink: /right-click/idea-vscode/
 sidebar: auto
 categories:
   - 随笔
+  - 技术随笔
 tags: 
   - 
 ---
